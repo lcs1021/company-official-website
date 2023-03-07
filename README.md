@@ -1,7 +1,7 @@
 # 项目使用说明
 
 ## 项目运行环境
-`建议是使用 Visual Studio Code 来运行项目` 
+`特别提醒：建议是使用 Visual Studio Code 来运行项目` 
 
 ## 终端运行项目的命令
 ```
